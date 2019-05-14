@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "code": 200,
+  "response": {
+    "departments": [
+      {
+        "id": 14,
+        "name": "Город 1",
+        "users": [
+          {
+            "id": 80,
+            "name": "Пользователь 1",
+            "incoming": {
+              "success": 0,
+              "fail": 0,
+              "waste_success": 0,
+              "waste_fail": 0,
+              "not_waste": 0
+            },
+            "outgoing": {
+              "success": 0,
+              "fail": 0
+            }
+          },
+          {
+            "id": 1020,
+            "name": "Пользователь 2",
+            "incoming": {
+              "success": 1,
+              "fail": 0,
+              "waste_success": 0,
+              "waste_fail": 0,
+              "not_waste": 0
+            },
+            "outgoing": {
+              "success": 0,
+              "fail": 0
+            }
+          },
+          {
+            "id": 1252,
+            "name": "Пользователь 3",
+            "incoming": {
+              "success": 0,
+              "fail": 0,
+              "waste_success": 0,
+              "waste_fail": 0,
+              "not_waste": 0
+            },
+            "outgoing": {
+              "success": 0,
+              "fail": 0
+            }
+          },
+          {
+            "id": 2072,
+            "name": "Пользователь 4",
+            "incoming": {
+              "success": 0,
+              "fail": 0,
+              "waste_success": 0,
+              "waste_fail": 0,
+              "not_waste": 0
+            },
+            "outgoing": {
+              "success": 0,
+              "fail": 0
+            }
+          },
+          {
+            "id": 74,
+            "name": "Пользователь 5",
+            "incoming": {
+              "success": 45,
+              "fail": 18,
+              "waste_success": 1,
+              "waste_fail": 6,
+              "not_waste": 12
+            },
+            "outgoing": {
+              "success": 44,
+              "fail": 0
+            }
+          },
+          {
+            "id": 76,
+            "name": "Пользователь 6",
+            "incoming": {
+              "success": 36,
+              "fail": 12,
+              "waste_success": 0,
+              "waste_fail": 3,
+              "not_waste": 7
+            },
+            "outgoing": {
+              "success": 43,
+              "fail": 0
+            }
+          },
+          {
+            "id": 220,
+            "name": "Пользователь 7",
+            "incoming": {
+              "success": 25,
+              "fail": 12,
+              "waste_success": 0,
+              "waste_fail": 0,
+              "not_waste": 11
+            },
+            "outgoing": {
+              "success": 58,
+              "fail": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Город 2",
+        "users": [
+            {
+              "id": 48,
+              "name": "Пользователь 8",
+              "incoming": {
+                "success": 0,
+                "fail": 0,
+                "waste_success": 0,
+                "waste_fail": 0,
+                "not_waste": 0
+              },
+              "outgoing": {
+                "success": 0,
+                "fail": 0
+              }
+            },
+            {
+              "id": 294,
+              "name": "Пользователь 9",
+              "incoming": {
+                "success": 0,
+                "fail": 0,
+                "waste_success": 0,
+                "waste_fail": 0,
+                "not_waste": 0
+              },
+              "outgoing": {
+                "success": 0,
+                "fail": 0
+              }
+            },
+            {
+              "id": 52,
+              "name": "Пользователь 10",
+              "incoming": {
+                "success": 16,
+                "fail": 3,
+                "waste_success": 0,
+                "waste_fail": 1,
+                "not_waste": 3
+              },
+              "outgoing": {
+                "success": 17,
+                "fail": 0
+              }
+            },
+            {
+              "id": 56,
+              "name": "Пользователь 11",
+              "incoming": {
+                "success": 16,
+                "fail": 7,
+                "waste_success": 2,
+                "waste_fail": 0,
+                "not_waste": 5
+              },
+              "outgoing": {
+                "success": 21,
+                "fail": 0
+              }
+            },
+            {
+              "id": 58,
+              "name": "Пользователь 12",
+              "incoming": {
+                "success": 0,
+                "fail": 0,
+                "waste_success": 0,
+                "waste_fail": 0,
+                "not_waste": 0
+              },
+              "outgoing": {
+                "success": 3,
+                "fail": 0
+              }
+            },
+            {
+              "id": 60,
+              "name": "Пользователь 13",
+              "incoming": {
+                "success": 7,
+                "fail": 3,
+                "waste_success": 1,
+                "waste_fail": 0,
+                "not_waste": 1
+              },
+              "outgoing": {
+                "success": 16,
+                "fail": 0
+              }
+            },
+            {
+              "id": 62,
+              "name": "Пользователь 14",
+              "incoming": {
+                "success": 57,
+                "fail": 30,
+                "waste_success": 7,
+                "waste_fail": 1,
+                "not_waste": 19
+              },
+              "outgoing": {
+                "success": 29,
+                "fail": 0
+              }
+            }
+        ]
+      }
+    ]
+  }
+}
