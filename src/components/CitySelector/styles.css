@@ -1,0 +1,24 @@
+.Select-control {
+  border-color: #c4c4c4;
+  border-radius: 0;
+  height: 40px;
+}
+
+
+.Select.is-focused:not(.is-open) .Select-control {
+  border-color: #c4c4c4;
+  box-shadow: none;
+}
+
+
+
+.Select-multi-value-wrapper {
+  height: 100%;
+}
+
+
+
+.Select-value {
+  display: flex;
+  align-items: center;
+}
